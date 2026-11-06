@@ -1,0 +1,16 @@
+name: Feature request
+description: Suggest something NX9 could do.
+labels: ["enhancement"]
+body:
+  - type: textarea
+    id: problem
+    attributes:
+      label: What are you trying to do?
+      description: The problem or the moment where NX9 gets in your way.
+    validations:
+      required: true
+  - type: textarea
+    id: idea
+    attributes:
+      label: What would help?
+      description: Optional.  Your idea for how NX9 could solve it.

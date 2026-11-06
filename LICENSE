@@ -1,0 +1,130 @@
+# NX9 Software License
+
+Copyright © 2026 Functional Development LLC.  All rights reserved.
+NX9 was created by Jason Daniels.
+https://functional-development.com
+
+NX9 is free to use.  It is not open source.  This license lets you use the
+application;  it does not give you its source code or any right to change,
+copy or redistribute it.
+
+## 1. Definitions
+
+"Software" means the NX9 application as distributed by Functional Development
+LLC ("we", "us"), including every file inside the application bundle and disk
+image, any updates we provide, and its documentation.
+
+"You" means the person or organisation using the Software.
+
+## 2. License grant
+
+Subject to the terms of this license, we grant you a free, worldwide,
+non-exclusive, non-transferable, non-sublicensable license to download,
+install and run the Software, in its compiled and packaged form, on computers
+you own or control, for personal or commercial purposes, including inside your
+business.
+
+## 3. No rights to the source code
+
+The Software is licensed, not sold.  Some parts of the Software are stored in
+the application bundle as scripts or other human-readable files so that the
+Software can run.  Their presence does not make the Software open source and
+gives you no license to use, study for the purpose of copying, modify, extract
+or distribute those files apart from running the Software as delivered.
+
+## 4. Restrictions
+
+Except as this license expressly permits, or as applicable law allows despite
+this limitation, you may not:
+
+1. modify, adapt, translate, or create derivative works of the Software;
+2. decompile, disassemble or reverse engineer the Software;
+3. copy, redistribute, publish, mirror, sublicense, rent, lease or lend the
+   Software, or any part of it, to anyone else;
+4. sell the Software, charge for it, bundle it with another product, or
+   repackage it for commercial distribution;
+5. offer the Software, or a service built on it, to third parties as a hosted
+   or managed service;
+6. remove, alter or hide any copyright, attribution, license or other notice
+   in the Software;
+7. use the names or marks of Functional Development LLC, NX9 or Jason Daniels
+   to endorse or promote anything without our written permission.
+
+You may tell others about the Software and share links to our official
+download page.
+
+## 5. Third-party components
+
+The Software includes components made by others, such as Python, tmux and
+open-source fonts.  Each is provided under its own license, listed in
+THIRD-PARTY-NOTICES.md, and nothing in this license limits your rights under
+those licenses for those components.
+
+The Software works with services and programs it does not include, such as
+Claude Code and other AI providers.  Your use of them is governed by their own
+terms, and you are responsible for any account, key or fee they require.
+
+## 6. Your responsibility for what the Software runs
+
+The Software sends instructions to AI agents and terminal sessions on your
+computer, which can read, change and delete files and run commands with your
+user account's permissions.  You decide what those agents are asked to do and
+where the Software can be reached from.  You are responsible for the results.
+
+## 7. Network use and privacy
+
+The Software runs on your computer.  It checks a notices file on
+functional-development.com from time to time to tell you about new versions.
+That request carries the Software's version and, like any web request, your
+network address;  it carries nothing about your work, and you can turn it off
+in Preferences.  When you ask the Software to install a program it depends on,
+it downloads that program from its publisher.  We do not collect your prompts,
+files, keys or usage.
+
+## 8. Updates and support
+
+We may release updates, which are covered by this license unless they come
+with their own.  We are not obliged to provide updates, support or maintenance.
+
+## 9. Feedback
+
+If you send us suggestions or bug reports, we may use them without obligation
+to you.
+
+## 10. Termination
+
+This license ends automatically if you break any of its terms.  When it ends,
+you must stop using the Software and delete every copy.  Sections 3, 4 and 11
+to 14 survive.
+
+## 11. No warranty
+
+THE SOFTWARE IS PROVIDED "AS IS" AND "AS AVAILABLE", WITHOUT WARRANTY OF ANY
+KIND, EXPRESS OR IMPLIED, INCLUDING ANY WARRANTY OF MERCHANTABILITY, FITNESS
+FOR A PARTICULAR PURPOSE, TITLE OR NON-INFRINGEMENT, AND WITHOUT ANY WARRANTY
+THAT IT WILL BE ERROR-FREE, SECURE OR UNINTERRUPTED.
+
+## 12. Limitation of liability
+
+TO THE FULLEST EXTENT PERMITTED BY LAW, FUNCTIONAL DEVELOPMENT LLC, ITS
+MEMBERS AND JASON DANIELS WILL NOT BE LIABLE FOR ANY INDIRECT, INCIDENTAL,
+SPECIAL, CONSEQUENTIAL OR PUNITIVE DAMAGES, OR FOR ANY LOSS OF DATA, PROFITS,
+REVENUE OR BUSINESS, ARISING FROM OR RELATED TO THE SOFTWARE OR THIS LICENSE,
+EVEN IF ADVISED OF THEIR POSSIBILITY.  OUR TOTAL LIABILITY FOR ANY CLAIM WILL
+NOT EXCEED ONE HUNDRED US DOLLARS (US$100).  SOME JURISDICTIONS DO NOT ALLOW
+THESE EXCLUSIONS, SO SOME OF THEM MAY NOT APPLY TO YOU.
+
+## 13. Export
+
+You may not use or export the Software in violation of United States export
+laws or sanctions, or those of any other applicable country.
+
+## 14. General
+
+This license is governed by the laws of [STATE - for counsel], without regard
+to its conflict-of-laws rules.  If any part of it is found unenforceable, the
+rest remains in effect.  It is the entire agreement between you and us about
+the Software.  We may publish a new version of this license for future
+releases.
+
+Questions: https://functional-development.com

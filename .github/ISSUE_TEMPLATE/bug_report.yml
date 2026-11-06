@@ -1,0 +1,42 @@
+name: Bug report
+description: Something in NX9 does not work as it should.
+labels: ["bug"]
+body:
+  - type: input
+    id: version
+    attributes:
+      label: NX9 version
+      description: Click the logo in NX9 to see it.
+      placeholder: "1.1.0"
+    validations:
+      required: true
+  - type: input
+    id: macos
+    attributes:
+      label: macOS version
+      placeholder: "macOS 26.1"
+    validations:
+      required: true
+  - type: dropdown
+    id: where
+    attributes:
+      label: Where did it happen?
+      options:
+        - On the Mac
+        - On iPhone
+        - During first-launch setup
+        - Installing or updating
+    validations:
+      required: true
+  - type: textarea
+    id: what
+    attributes:
+      label: What happened
+      description: What you did, what you expected, and what happened instead.
+    validations:
+      required: true
+  - type: textarea
+    id: screenshot
+    attributes:
+      label: Screenshots
+      description: Optional.  Please cover anything private, such as project names or file contents.
