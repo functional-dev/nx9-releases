@@ -4,21 +4,15 @@ Every release of NX9, newest first.  Download any of them from the [releases pag
 
 ## 1.1.0
 
-The first release published here.
+The first release published here.  Run up to nine Claude Code sessions on one screen, and keep them moving from your iPhone.
 
-- **Two windows on one project.**  Choosing a project that is already open in another box opens a second window on it, instead of swapping the two boxes.  Each window keeps its own conversation, last answer and status.
-- **Blue lasts long enough to see.**  A session that has just answered stays blue for five seconds after you look at it, and an answer in the window you have open shows blue too.
-- **Whole lines only.**  A session's screen no longer shows a line cut in half at its top or bottom edge.
-- **iPhone status bar.**  The top of the grid and of an open window is no longer blurred under the status bar on iOS 26 and later.  If you added NX9 to your Home Screen before this version, remove it and add it again to get the new status bar.
-- **Claude Code's first-run screens.**  Choosing a theme, a login method and signing in to Claude can all be answered from NX9, with the sign-in link one tap away.
-- **Questions with several answers.**  When Claude asks you to tick more than one option, NX9 shows the ticks and a Submit button, and the answer goes through.
-- **Voice answers questions to the end.**  After you answer by voice, NX9 reads whatever the window asks next, such as the next tick or the review page.  Say "done" to submit a question with several answers.
-- **Voice talks to the window you already chose.**  Switching to voice mode no longer asks you to tap the highlighted window again, and what you sent is read back only while you are still on that window.
-- **Links in questions.**  An address that wraps inside a question's frame opens as one link.
-- **Setup on a Mac with Tailscale.**  Finishing setup now waits for NX9 to start, which can take a few minutes while Tailscale issues its certificate, instead of opening an address that does not answer yet.
-- **Security.**  NX9 now refuses requests from other websites open in your browser and from addresses that are not its own, so a web page can no longer reach it through your Mac.  Claiming a new copy of NX9 needs its link, even on the Mac itself.  Its settings, uploads and logs can be read only by your account, and its access token no longer appears in its log.  Banner links can only point to functional-development.com or NX9's GitHub page.
-- **Credits** open in a new tab, and now include the license.
-- **License.**  NX9 is now free to use for personal and commercial work, under the NX9 Software License.
+- **See every session at a glance:**  which are working, which have finished and which are waiting on you.
+- **Answer in place:**  read a session's screen, reply, pick an option or drop in a file, without hunting for its window.
+- **Take it with you:**  the same grid on your iPhone, over Tailscale.
+- **Talk to it:**  hear a session's summary read aloud, and speak your reply.
+- **Free, and private:**  NX9 collects no usage data, and your files and keys stay on your Mac.
+
+A short tour shows you around the first time you open it.
 
 ## 1.0.1
 
