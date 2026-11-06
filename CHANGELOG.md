@@ -16,6 +16,7 @@ The first release published here.
 - **Voice talks to the window you already chose.**  Switching to voice mode no longer asks you to tap the highlighted window again, and what you sent is read back only while you are still on that window.
 - **Links in questions.**  An address that wraps inside a question's frame opens as one link.
 - **Setup on a Mac with Tailscale.**  Finishing setup now waits for NX9 to start, which can take a few minutes while Tailscale issues its certificate, instead of opening an address that does not answer yet.
+- **Security.**  NX9 now refuses requests from other websites open in your browser and from addresses that are not its own, so a web page can no longer reach it through your Mac.  Claiming a new copy of NX9 needs its link, even on the Mac itself.  Its settings, uploads and logs can be read only by your account, and its access token no longer appears in its log.  Banner links can only point to functional-development.com or NX9's GitHub page.
 - **Credits** open in a new tab, and now include the license.
 - **License.**  NX9 is now free to use for personal and commercial work, under the NX9 Software License.
 
