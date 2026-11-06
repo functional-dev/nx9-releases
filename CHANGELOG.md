@@ -8,7 +8,7 @@ The first release published here.  Run up to nine Claude Code sessions on one sc
 
 - **See every session at a glance:**  which are working, which have finished and which are waiting on you.
 - **Answer in place:**  read a session's screen, reply, pick an option or drop in a file, without hunting for its window.
-- **Take it with you:**  the same grid on your iPhone, over Tailscale.
+- **Take it with you:**  the same grid on your iPhone, over Tailscale.  With a voice mode.
 - **Talk to it:**  hear a session's summary read aloud, and speak your reply.
 - **Free, and private:**  NX9 collects no usage data, and your files and keys stay on your Mac.
 
