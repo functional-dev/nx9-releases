@@ -13,7 +13,7 @@ NX9 is a free Mac app from [Functional Development](https://functional-developme
 - **One grid, nine sessions.**  Each box is a Claude Code session in its own folder.  Red is working, green has answered, amber is asking you something, and blue has just answered and you have not looked yet.
 - **Answer in place.**  Open a box to read its screen, type a reply, choose an option from a question, or send a file.
 - **From your phone.**  The same grid works on iPhone, over Tailscale, so you can keep work moving away from the desk.
-- **Voice.**  Have a session's summary read aloud, and speak your reply.
+- **Voice mode.**  Have a session's summary read aloud, and speak your reply, from your Mac or your iPhone.
 - **Two windows on one project.**  Run unrelated work side by side in the same folder;  each window keeps its own conversation.
 - **Your choice of model.**  Sessions use Claude by default, or any server that speaks Anthropic's message format, such as Ollama or LM Studio on your Mac.
 
