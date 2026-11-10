@@ -2,6 +2,13 @@
 
 Every release of NX9, newest first.  Download any of them from the [releases page](https://github.com/functional-dev/nx9-releases/releases).
 
+## 1.2.0
+
+- **A file browser beside each window:**  find a file in your home folder and drag it onto a window, and its path goes into your reply.  On iPhone, tap it.  Press ⌥B to open it.
+- **Icons, list or columns:**  switch with the buttons at the top, or ⌃⌥1, ⌃⌥2 and ⌃⌥3.  Change the keys in Preferences.
+- **Files from your other Macs:**  read another Mac's home folder over Tailscale.  A short walkthrough sets it up the first time you open the browser.  NX9 can only read there, a file you pick is copied to this Mac first, and SSH keys, keychains and .env files stay private.
+- **What you asked, kept close:**  LAST ASKED now sits right above the window's screen.  Tap it to see everything you've asked that window before.
+
 ## 1.1.0
 
 The first release published here.  Run up to nine Claude Code sessions on one screen, and keep them moving from your iPhone.

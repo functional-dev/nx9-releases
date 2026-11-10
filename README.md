@@ -13,6 +13,7 @@ NX9 is a free Mac app from [Functional Development](https://functional-developme
 - **One grid, nine sessions.**  Each box is a Claude Code session in its own folder.  Red is working, green has answered, amber is asking you something, and blue has just answered and you have not looked yet.
 - **Answer in place.**  Open a box to read its screen, type a reply, choose an option from a question, or send a file.
 - **From your phone.**  The same grid works on iPhone, over Tailscale, so you can keep work moving away from the desk.
+- **Hand Claude a file.**  A file browser beside each window:  drag a file onto a window and its path goes into the reply.  It reads your other Macs too, over Tailscale, and can never change anything on them.
 - **Voice mode.**  Have a session's summary read aloud, and speak your reply, from your Mac or your iPhone.
 - **Two windows on one project.**  Run unrelated work side by side in the same folder;  each window keeps its own conversation.
 - **Your choice of model.**  Sessions use Claude by default, or any server that speaks Anthropic's message format, such as Ollama or LM Studio on your Mac.
@@ -48,7 +49,7 @@ shasum -a 256 ~/Downloads/NX9-<version>.dmg
 
 To update, drag the new version into Applications and replace the old one.  Your settings are kept.
 
-To remove NX9, stop its background service, then delete the app and its settings:
+To remove NX9, first take it off any other Macs you added, in **Preferences**, under **Other Macs**.  Then stop its background service, and delete the app and its settings:
 
 ```
 launchctl bootout gui/$(id -u)/com.ct9.broker
