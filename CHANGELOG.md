@@ -2,6 +2,10 @@
 
 Every release of NX9, newest first.  Download any of them from the [releases page](https://github.com/functional-dev/nx9-releases/releases).
 
+## 1.2.1
+
+- **Updating takes one click:**  if a newer NX9 is in Applications but an older copy is still the one running, a banner says so, and Switch moves NX9 onto the new one.  Your Claude sessions and their windows keep running.
+
 ## 1.2.0
 
 - **A file browser beside each window:**  find a file in your home folder and drag it onto a window, and its path goes into your reply.  On iPhone, tap it.  Press ⌥B to open it.
