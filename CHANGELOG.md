@@ -6,6 +6,7 @@ Every release of NX9, newest first.  Download any of them from the [releases pag
 
 - **Opening the new version always switches to it:**  with an older NX9 also installed, opening the new one moves NX9 onto it and offers to put the old one in the Trash.  An older copy opened by mistake no longer takes over.
 - **Release news within the hour:**  NX9 checks for news every hour, and whenever you open it.
+- **Changing a window's folder is easier to find:**  in a window's config, the folder has a line of its own with Save right beside it.
 
 ## 1.2.1
 
