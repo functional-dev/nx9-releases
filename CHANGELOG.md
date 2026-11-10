@@ -2,6 +2,11 @@
 
 Every release of NX9, newest first.  Download any of them from the [releases page](https://github.com/functional-dev/nx9-releases/releases).
 
+## 1.2.2
+
+- **Opening the new version always switches to it:**  with an older NX9 also installed, opening the new one moves NX9 onto it and offers to put the old one in the Trash.  An older copy opened by mistake no longer takes over.
+- **Release news within the hour:**  NX9 checks for news every hour, and whenever you open it.
+
 ## 1.2.1
 
 - **Updating takes one click:**  if a newer NX9 is in Applications but an older copy is still the one running, a banner says so, and Switch moves NX9 onto the new one.  Your Claude sessions and their windows keep running.
