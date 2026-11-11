@@ -2,6 +2,12 @@
 
 Every release of NX9, newest first.  Download any of them from the [releases page](https://github.com/functional-dev/nx9-releases/releases).
 
+## 1.3.0
+
+- **Change a window's mode with one tap:**  Bypass, Edits and Plan sit beside + file, with the window's current mode lit.  Shift+Tab in the reply box steps through them, as it does in the terminal.
+- **NX9's mark in the Classic look:**  the header shows the red NX9 mark instead of the name in grey.
+- **Links stay whole:**  an address at the end of one numbered step no longer runs on into the next step's number.
+
 ## 1.2.2
 
 - **Opening the new version always switches to it:**  with an older NX9 also installed, opening the new one moves NX9 onto it and offers to put the old one in the Trash.  An older copy opened by mistake no longer takes over.
