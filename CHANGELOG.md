@@ -2,6 +2,12 @@
 
 Every release of NX9, newest first.  Download any of them from the [releases page](https://github.com/functional-dev/nx9-releases/releases).
 
+## 1.3.1
+
+- **A tidier config panel:**  a window's config now opens in two halves, with Project, Label and Folder on the left and AI, Site and Chime on the right.  It takes about a third less height, so more of the window's screen stays in view.
+- **Save at the top left:**  Save is the first thing in the panel, with a note beside it saying what it does.
+- **Open config from the keyboard:**  press ⌘⌥, (command-option-comma) to open or close the config panel of the window you're looking at.
+
 ## 1.3.0
 
 - **Change a window's mode with one tap:**  Bypass, Edits and Plan sit beside + file, with the window's current mode lit.  Shift+Tab in the reply box steps through them, as it does in the terminal.
