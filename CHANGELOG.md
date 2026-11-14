@@ -7,6 +7,7 @@ Every release of NX9, newest first.  Download any of them from the [releases pag
 - **A tidier config panel:**  a window's config now opens in two halves, with Project, Label and Folder on the left and AI, Site and Chime on the right.  It takes about a third less height, so more of the window's screen stays in view.
 - **Save at the top left:**  Save is the first thing in the panel, with a note beside it saying what it does.
 - **Open config from the keyboard:**  press ⌘⌥, (command-option-comma) to open or close the config panel of the window you're looking at.
+- **Questions in narrow windows:**  when Claude asks a multiple-choice question in a narrow window, NX9 now shows its options and Submit, so you can answer it from the dashboard.
 
 ## 1.3.0
 
