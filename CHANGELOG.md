@@ -2,6 +2,11 @@
 
 Every release of NX9, newest first.  Download any of them from the [releases page](https://github.com/functional-dev/nx9-releases/releases).
 
+## 1.3.2
+
+- **Every option answers when tapped:**  an option with "Other" or "differently" in its name, such as "Other ecosystems", is now chosen when you tap it.  Before, NX9 opened a box to type into instead, as if it were Claude Code's own "Type something." option.
+- **Questions with previews:**  when Claude shows a preview beside each option, NX9 now shows the options too, so you can answer from the dashboard.
+
 ## 1.3.1
 
 - **A tidier config panel:**  a window's config now opens in two halves, with Project, Label and Folder on the left and AI, Site and Chime on the right.  It takes about a third less height, so more of the window's screen stays in view.
