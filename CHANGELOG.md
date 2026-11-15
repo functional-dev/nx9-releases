@@ -2,6 +2,12 @@
 
 Every release of NX9, newest first.  Download any of them from the [releases page](https://github.com/functional-dev/nx9-releases/releases).
 
+## 1.3.3
+
+- **The last page of a question in parts:**  "Ready to submit your answers?" now shows Submit answers and Cancel in windows whose session has a name.  Before, those windows showed the question as asking with nothing to answer it with.
+- **Long reviews keep their question:**  when the answers being submitted are long, NX9 shortens them rather than cutting off "Ready to submit your answers?".
+- **Options read as written:**  "(Recommended)" stays with its option when it wraps onto a second line, and an option called "Something else" is chosen when you tap it instead of opening a box to type into.
+
 ## 1.3.2
 
 - **Every option answers when tapped:**  an option with "Other" or "differently" in its name, such as "Other ecosystems", is now chosen when you tap it.  Before, NX9 opened a box to type into instead, as if it were Claude Code's own "Type something." option.
