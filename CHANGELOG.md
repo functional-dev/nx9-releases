@@ -2,6 +2,13 @@
 
 Every release of NX9, newest first.  Download any of them from the [releases page](https://github.com/functional-dev/nx9-releases/releases).
 
+## 1.3.4
+
+- **Submit works with the latest Claude Code:**  Claude Code 2.1.329 no longer asks "Ready to submit your answers?" on the last page of a question in parts.  NX9 now recognises that page anyway and shows Submit answers and Cancel.  Before, the window showed as asking with nothing to answer it with.
+- **A clear Submit on tick-several questions:**  when a question takes more than one answer, Submit is a filled button that says how many answers it sends, such as "Submit 2 answers".  Return reads "tick" there, because that is what it does.
+- **The phone stays connected after a reinstall:**  running setup again while Tailscale was briefly offline could leave NX9 reachable from the Mac only.  Now a Mac already set up on Tailscale stays on it and waits for Tailscale to come back.
+- **Smaller things:**  ⌘⌥S saves the config panel you have open, the cursor returns to the reply box whenever a panel closes, and in the Wall look on a phone the mode buttons get their own row so Send fits.
+
 ## 1.3.3
 
 - **The last page of a question in parts:**  "Ready to submit your answers?" now shows Submit answers and Cancel in windows whose session has a name.  Before, those windows showed the question as asking with nothing to answer it with.
